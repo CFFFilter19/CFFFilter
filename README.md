@@ -11,18 +11,18 @@ One can use a IDE software tool called Code::Blocks to edit, compile, debug, and
 
 Compile:
 
-  g++ ./*.cpp -mbmi -mbmi2 -o CFFF
+  `g++ ./*.cpp -mbmi -mbmi2 -o CFFF`
 
 or
 
-  g++ ./*.cpp -mbmi -mbmi2 -o CQF
+  `g++ ./*.cpp -mbmi -mbmi2 -o CQF`
 
 
 Run:
 
-  ./CFFF
+  `./CFFF`
 
 or
 
-  ./CQF
+  `./CQF`
 
