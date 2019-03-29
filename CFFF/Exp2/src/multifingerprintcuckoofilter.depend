@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1429239215 source:c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\variablefingerprintcuckoofilter\murmurhash3.cpp
+	<algorithm>
+	<string.h>
+	"murmurhash3.h"
+
+1418215278 c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\variablefingerprintcuckoofilter\murmurhash3.h
+	<stdint.h>
+
+1467808091 source:c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\variablefingerprintcuckoofilter\variablefingerprintcuckoofilter.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<assert.h>
+	<fstream>
+	<math.h>
+	<bitset>
+	"variablefingerprintcuckoofilter.h"
+
+1467808433 c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\variablefingerprintcuckoofilter\variablefingerprintcuckoofilter.h
+	"murmurhash3.h"
+

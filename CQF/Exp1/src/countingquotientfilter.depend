@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1517743435 source:f:\研究生学习\cqf\cqf_wwr\cqf2\countingquotientfilter2\countingquotientfilter.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<assert.h>
+	<fstream>
+	<math.h>
+	<bitset>
+	<x86intrin.h>
+	"countingquotientfilter.h"
+
+1517743032 f:\研究生学习\cqf\cqf_wwr\cqf2\countingquotientfilter2\countingquotientfilter.h
+	"murmurhash3.h"
+
+1418215278 f:\研究生学习\cqf\cqf_wwr\cqf2\countingquotientfilter2\murmurhash3.h
+	<stdint.h>
+
+1517743054 source:f:\研究生学习\cqf\cqf_wwr\cqf2\countingquotientfilter2\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<dir.h>
+	<math.h>
+	<string.h>
+	"countingquotientfilter.h"
+
+1429239215 source:f:\研究生学习\cqf\cqf_wwr\cqf2\countingquotientfilter2\murmurhash3.cpp
+	<algorithm>
+	<string.h>
+	"murmurhash3.h"
+
